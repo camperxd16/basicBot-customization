@@ -93,7 +93,7 @@
         themeLink: null,
         fbLink: null,
         youtubeLink: null,
-        website: null,
+        website: "http://goldpvp.net/",
         intervalMessages: [],
         messageInterval: 5,
         songstats: true,

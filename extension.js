@@ -53,11 +53,11 @@
     //Change the bots default settings and make sure they are loaded on launch
 
     localStorage.setItem("basicBotsettings", JSON.stringify({
-        botName: "basicBot",
+        botName: "GoldBot",
         language: "english",
-        chatLink: "https://rawgit.com/Yemasthui/basicBot/master/lang/en.json",
+        chatLink: null,
         maximumAfk: 120,
-        afkRemoval: true,
+        afkRemoval: false,
         maximumDc: 60,
         bouncerPlus: true,
         lockdownEnabled: false,
@@ -88,11 +88,11 @@
         filterChat: true,
         etaRestriction: false,
         welcome: true,
-        opLink: null,
+        opLink: "These are the op Songs and WILL be skiped https://github.com/camperxd16/GoldNetworkOverPlayedSongs",
         rulesLink: null,
         themeLink: null,
         fbLink: null,
-        youtubeLink: null,
+        youtubeLink: "These are our Youtubers! https://www.youtube.com/user/OneGameTooMany and https://www.youtube.com/user/AydenDoesGames",
         website: "http://goldpvp.net/",
         intervalMessages: [],
         messageInterval: 5,

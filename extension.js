@@ -55,7 +55,7 @@
     localStorage.setItem("basicBotsettings", JSON.stringify({
         botName: "GoldBot",
         language: "english",
-        chatLink: null,
+        chatLink: "List of commands bit.ly/GoldBotCommands",
         maximumAfk: 120,
         afkRemoval: false,
         maximumDc: 60,

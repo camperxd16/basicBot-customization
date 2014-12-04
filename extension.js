@@ -53,7 +53,7 @@
     //Change the bots default settings and make sure they are loaded on launch
 
     localStorage.setItem("basicBotsettings", JSON.stringify({
-        botName: "GoldBot",
+        botName: "GoldNetworkBot",
         language: "english",
         chatLink: "List of commands bit.ly/GoldBotCommands",
         maximumAfk: 120,

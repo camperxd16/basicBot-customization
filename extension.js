@@ -73,7 +73,7 @@
         lockskipPosition: 3,
         lockskipReasons: [
             ["theme", "This song does not fit the room theme. "],
-            ["op", "This song is on the OP list. "],
+            ["op", "This song is on the OP list or on the BlackList (Banned songs). "],
             ["history", "This song is in the history. "],
             ["mix", "You played a mix, which is against the rules. "],
             ["sound", "The song you played had bad sound quality or no sound. "],

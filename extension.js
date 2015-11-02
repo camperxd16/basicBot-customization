@@ -75,8 +75,8 @@
             ["theme", "This song does not fit the room theme and was skipped, if you carry on you will be banned. "],
             ["op", "This song is on the OP list or on the BlackList (Banned songs) and was skipped, if you carry on you will be banned. "],
             ["history", "This song is in the history. "],
-            ["mix", "You played a mix, which is against the rules. "],
-            ["sound", "The song you played had bad sound quality or no sound. "],
+            ["mix", "You played a mix, which is against the rules, Please do not play these if you carry on you will be banned. "],
+            ["sound", "The song you played had bad sound quality or no sound, Please find one with sound or better sound quality. "],
             ["nsfw", "The song you contained was NSFW (image or sound) and what skipped, if you carry on you will be banned. "],
             ["unavailable", "The song you played was not available for some users and was skipped, please try find one what works. "]
         ],
